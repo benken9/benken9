@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Owen</h1>
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on **nothing**😓
 
 - 📫 How to reach me **hochunyin610906@gmail.com**
 
